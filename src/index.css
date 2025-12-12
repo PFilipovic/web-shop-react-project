@@ -220,19 +220,19 @@ a {
 }
 
 .category-grid a:nth-child(1) .category-box {
-  background-image: url("public/images/male.jpg");
+  background-image: url("/web-shop-react-project/images/male.jpg");
 }
 
 .category-grid a:nth-child(2) .category-box {
-  background-image: url("public/images/female.jpg");
+  background-image: url("/web-shop-react-project/images/female.jpg");
 }
 
 .category-grid a:nth-child(3) .category-box {
-  background-image: url("public/images/shoes.jpg");
+  background-image: url("/web-shop-react-project/images/shoes.jpg");
 }
 
 .category-grid a:nth-child(4) .category-box {
-  background-image: url("/public/images/torba.jpg");
+  background-image: url("/web-shop-react-project/images/torba.jpg");
 }
 
 .category-grid a {

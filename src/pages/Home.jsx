@@ -32,18 +32,18 @@ export default function Home() {
 
       <h1 className="category-title">Što nudimo</h1>
       <section className="category-grid">
-        <a href="products">
+        <Link to="products">
           <div className="category-box"><h3>Majice</h3></div>
-        </a>
-        <a href="products">
+        </Link>
+        <Link to="products">
           <div className="category-box"><h3>Hlače</h3></div>
-        </a>
-        <a href="products">
+        </Link>
+        <Link to="products">
           <div className="category-box"><h3>Tenisice</h3></div>
-        </a>
-        <a href="products">
+        </Link>
+        <Link to="products">
           <div className="category-box"><h3>Torbe</h3></div>
-        </a>
+        </Link>
       </section>
 
 
